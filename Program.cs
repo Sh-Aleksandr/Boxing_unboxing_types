@@ -42,7 +42,7 @@ namespace Benchmark
             int c = (int)b; 
 
             //decimal d = (decimal)b; // InvalidCastException // распаковать 1 как decimal, не получится - будет ошибка.
-// add new file
+
         }
     }
 }
